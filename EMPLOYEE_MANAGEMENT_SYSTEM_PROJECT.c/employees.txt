@@ -1,0 +1,65 @@
+📊 Report generated on : [ 27-05-2025 ]
+
+◦ ID: 1005
+◦ Name: Anas
+◦ Department: Electronics
+◦ Designation: HOD
+◦ Gross Salary: 2600000.00
+-----------------------------
+◦ ID: 1001
+◦ Name: Karan
+◦ Department: Mathematics
+◦ Designation: HOD
+◦ Gross Salary: 1600000.00
+-----------------------------
+◦ ID: 765
+◦ Name: aslam
+◦ Department: oil
+◦ Designation: manager
+◦ Gross Salary: 1900000.00
+-----------------------------
+◦ ID: 1003
+◦ Name: bablu
+◦ Department: LAW
+◦ Designation: HOD
+◦ Gross Salary: 1900000.00
+-----------------------------
+◦ ID: 1002
+◦ Name: uwais
+◦ Department: computer science
+◦ Designation: HOD
+◦ Gross Salary: 2000000.00
+-----------------------------
+
+💸💸💸 Individual Employee Tax Filing Report (FY 2025-26 New Regime):↴
+---------------------------------------------------------------------
+ID: 1005 | Name: Anas | Department: Electronics | Designation: HOD
+⇢ Gross Salary: 2600000.00
+⇢ Standard Deduction: 75000.00
+⇢ Taxable Income: 2525000.00
+⇢ Total Tax Payable: 457500.00
+---------------------------------------------------------------------
+ID: 1001 | Name: Karan | Department: Mathematics | Designation: HOD
+⇢ Gross Salary: 1600000.00
+⇢ Standard Deduction: 75000.00
+⇢ Taxable Income: 1525000.00
+⇢ Total Tax Payable: 157500.00
+---------------------------------------------------------------------
+ID: 765 | Name: aslam | Department: oil | Designation: manager
+⇢ Gross Salary: 1900000.00
+⇢ Standard Deduction: 75000.00
+⇢ Taxable Income: 1825000.00
+⇢ Total Tax Payable: 247500.00
+---------------------------------------------------------------------
+ID: 1003 | Name: bablu | Department: LAW | Designation: HOD
+⇢ Gross Salary: 1900000.00
+⇢ Standard Deduction: 75000.00
+⇢ Taxable Income: 1825000.00
+⇢ Total Tax Payable: 247500.00
+---------------------------------------------------------------------
+ID: 1002 | Name: uwais | Department: computer science | Designation: HOD
+⇢ Gross Salary: 2000000.00
+⇢ Standard Deduction: 75000.00
+⇢ Taxable Income: 1925000.00
+⇢ Total Tax Payable: 277500.00
+---------------------------------------------------------------------
